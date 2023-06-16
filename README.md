@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Aleksander
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<p align="center" width="100%">
+    <img src="https://www.codewars.com/users/G_GrizzlyK/badges/large"/></h1>
+</p>
 
 <!--
 **AleksNik404/AleksNik404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
