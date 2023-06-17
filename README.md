@@ -3,7 +3,7 @@
 
 [![codewars](https://www.codewars.com/users/G_GrizzlyK/badges/large)](https://www.codewars.com/users/G_GrizzlyK)
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AleksNik404&theme=dark)](https://github.com/AleksNik404/leetcode-stats)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AleksNik404&theme=dark)](https://leetcode.com/AleksNik404/)
 
 <!--
 **AleksNik404/AleksNik404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
