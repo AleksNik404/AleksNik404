@@ -1,7 +1,8 @@
 <h1 >Hi there, I'm Aleksander
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AleksNik404&theme=dark)](https://leetcode.com/AleksNik404/)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=AleksNik404&theme=dark)](https://leetcode.com/AleksNik404/)  
+
 [![codewars](https://www.codewars.com/users/G_GrizzlyK/badges/large)](https://www.codewars.com/users/G_GrizzlyK)
 
 
